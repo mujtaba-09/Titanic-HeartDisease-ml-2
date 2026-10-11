@@ -8,8 +8,8 @@ This repo contains both tasks of Assignment 2:
 
 | Task | Folder | Live App |
 |---|---|---|
-| **Task 1** — Titanic Passenger Survival Prediction (instructor-provided; run, understand, deploy) | [`1 - Titanic Survival Prediction`](./1%20-%20Titanic%20Survival%20Prediction) | [`streamlit-app-titanic`](./streamlit-app-titanic) — _PASTE YOUR DEPLOYED URL HERE_ |
-| **Task 2** — Heart Disease Prediction (adapted from Task 1's code, per assignment instructions) | [`2 - Heart Disease Prediction`](./2%20-%20Heart%20Disease%20Prediction) | [`streamlit-app-heart`](./streamlit-app-heart) — _PASTE YOUR DEPLOYED URL HERE_ |
+| **Task 1** — Titanic Passenger Survival Prediction (instructor-provided; run, understand, deploy) | [`1 - Titanic Survival Prediction`](./1%20-%20Titanic%20Survival%20Prediction) | [`streamlit-app-titanic`](./streamlit-app-titanic) — [Live demo](https://titanic-heartdisease-ml-2-hgsbz2wkbqnh3shk3zq5w8.streamlit.app/) |
+| **Task 2** — Heart Disease Prediction (adapted from Task 1's code, per assignment instructions) | [`2 - Heart Disease Prediction`](./2%20-%20Heart%20Disease%20Prediction) | [`streamlit-app-heart`](./streamlit-app-heart) — [Live demo](https://heartdisease-ml-2-3uvmr4hj295bqknqrdfazy.streamlit.app/) |
 
 Both follow the same teaching structure:
 **Import Libraries → Load Data → Understand & Preprocess → Label Encode →
